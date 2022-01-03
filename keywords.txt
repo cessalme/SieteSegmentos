@@ -1,0 +1,2 @@
+SieteSegmentos	KEYWORD1
+escribirEnDisplay	KEYWORD2
